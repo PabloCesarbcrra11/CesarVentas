@@ -1,30 +1,10 @@
 {
-"name": "GataBot-MD",
+"name": "bot",
 "version": "1.4.9", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
 "type": "module",
     
-"directories": {
-"lib": "lib",
-"src": "src",
-"plugins": "plugins" },
-    
-"scripts": {
-"start": "node --no-warnings index.js",
-"test": "node test.js",
-"test2": "nodemon index.js" },
-    
-"homepage": "https://github.com/GataNina-Li/GataBot-MD",
-"author": {
-"name": "GataNina-Li" }, 
-    
-"repository": {
-"type": "git",
- "url": "git+https://github.com/GataNina-Li/GataBot-MD.git" },
- 
-"bugs": {
-"url": "https://github.com/GataNina-Li/GataBot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
